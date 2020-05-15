@@ -9,7 +9,7 @@
 
 > About me: <a href="http://facebook.com/ivermin1123" target="_blank">**Quoc Hoang**</a>.
 
-**Somthing ....**
+**Something ...**
 
 - Build status: 80%
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Table of Contents Requirements
+## Project Structure
 - [Working](#working)
 - [Requirements](#requirements)
 
