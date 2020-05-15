@@ -7,13 +7,13 @@
 
 > Based on project <a href="https://sefiks.com/2019/02/13/apparent-age-and-gender-prediction-in-keras/" target="_blank">**Apparent Age and Gender Prediction in Keras**</a> by sefiks
 
-> About me: Quoc Hoang.
+> About me: <a href="http://facebook.com/ivermin1123" target="_blank">**Quoc Hoang**</a>.
 
-**Badges will go here**
+**Somthing ....**
 
 - Build status: 80%
 
-[![Build Status](https://img.shields.io/badge/Build%3A-testing-green)] 
+![Build Status](https://img.shields.io/badge/Build%3A-testing-green)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## Working
 
-[![Working](https://i.ibb.co/ZTm953K/okdone.jpg)] 
+![Working](https://i.ibb.co/ZTm953K/okdone.jpg) 
 
 ---
 
