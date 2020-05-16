@@ -362,7 +362,7 @@ def loadAgeModel():
     # load weights
     if os.path.isfile('./weights/model_age_weights.h5') != True:
         print("age_model_weights.h5 will be downloaded...")
-        url = 'https://drive.google.com/uc?id=102b8Jl2S-5Hc0fD4fHo0RL8sR8tUrJEh '
+        url = 'https://drive.google.com/uc?id=102b8Jl2S-5Hc0fD4fHo0RL8sR8tUrJEh'
         output = './weights/age_model_weights.h5'
         gdown.download(url, output, quiet=False)
 
