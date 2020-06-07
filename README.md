@@ -5,8 +5,6 @@
 
 > This project is based on the dataset provided by <a href="https://susanqq.github.io/UTKFace/" target="_blank">**UTKFace**</a> 
 
-> Based on project <a href="https://sefiks.com/2019/02/13/apparent-age-and-gender-prediction-in-keras/" target="_blank">**Apparent Age and Gender Prediction in Keras**</a> by sefiks
-
 > About me: <a href="http://facebook.com/ivermin1123" target="_blank">**Quoc Hoang**</a>.
 
 **Something ...**
